@@ -45,7 +45,7 @@ The objective of this dashboard is to help insurance companies:
 ## 📂 Project Files
 
 - INSURANCE RISK & CLAIMS ANALYSIS.pbix – Power BI Dashboard
-- Pic.png – Dashboard Screenshot
+- Dashboard.png – Dashboard Screenshot
 
 ---
 
