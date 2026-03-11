@@ -38,7 +38,7 @@ The objective of this dashboard is to help insurance companies:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Pic.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
