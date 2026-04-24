@@ -49,5 +49,3 @@ The objective of this dashboard is to help insurance companies:
 
 ---
 
-## 📚 Learning Source
-This project was created as part of my Power BI learning journey and was inspired by a YouTube tutorial. I recreated the dashboard to practice concepts such as data cleaning, DAX measures, KPIs, and dashboard design.
